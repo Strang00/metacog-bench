@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "metacog-bench run manifest",
+  "type": "object",
+  "required": ["kind", "bench_version", "trap_ids", "model", "harness", "repeats", "per_trap", "date"],
+  "properties": {
+    "kind": {"enum": ["bench", "evening-check"]},
+    "bench_version": {"type": "string", "examples": ["v02.2"]},
+    "traps_sha256": {"type": "string"},
+    "trap_ids": {"type": "array", "items": {"type": "string"}},
+    "model": {"type": "string", "examples": ["claude-opus-5-5"]},
+    "harness": {"type": "string", "examples": ["claude-code 2.x"]},
+    "repeats": {"type": "integer", "minimum": 1},
+    "system_sha256": {"type": "string", "description": "hash of your CLAUDE.md or setup folder"},
+    "system_tokens": {"type": "integer"},
+    "baseline": {"type": "string", "examples": ["vanilla (--safe-mode)"]},
+    "judges": {"type": "array", "items": {"type": "object", "properties": {"model": {"type": "string"}, "prompt_sha256": {"type": "string"}}}},
+    "oracle_override": {"type": "boolean", "description": "true if you changed any oracle"},
+    "per_trap": {"type": "object", "additionalProperties": {"type": "object", "additionalProperties": {"type": "array", "items": {"type": "boolean"}}}},
+    "cost_usd": {"type": "number"},
+    "wall_s": {"type": "number"},
+    "date": {"type": "string", "format": "date"}
+  }
+}

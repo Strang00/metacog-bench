@@ -1,0 +1,394 @@
+{
+ "F1-01": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "F1-02": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "F1-03": {
+  "old": [
+   false,
+   false
+  ],
+  "base": [
+   true,
+   false
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "P3-01": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "P3-02": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "P3-03": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "R1-01": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   false,
+   false
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "R1-02": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   false,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "R1-03": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   false,
+   false
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "X-01": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "X-02": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "X-03": {
+  "old": [
+   false,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "F1-04": {
+  "old": [
+   false,
+   false
+  ],
+  "base": [
+   false,
+   false
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "F1-05": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "F2-01": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "F2-02": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "P6-01": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   false,
+   false
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "P6-02": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "R5-01": {
+  "old": [
+   true,
+   false
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   false
+  ]
+ },
+ "P6-03": {
+  "old": [
+   false,
+   false
+  ],
+  "base": [
+   false,
+   false
+  ],
+  "ours": [
+   false,
+   false
+  ]
+ },
+ "P6-04": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   false,
+   false
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "F5-01": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "P4-01": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "F1-06": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "F3-01": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "F2-03": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "P1-01": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ },
+ "F4-01": {
+  "old": [
+   true,
+   true
+  ],
+  "base": [
+   true,
+   true
+  ],
+  "ours": [
+   true,
+   true
+  ]
+ }
+}
